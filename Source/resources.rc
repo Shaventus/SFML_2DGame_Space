@@ -1,0 +1,4 @@
+#pragma once
+#define MAINICON 1234
+
+MAINICON ICON "Data/GFX/spaceicon.ico"

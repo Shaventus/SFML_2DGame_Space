@@ -1,0 +1,329 @@
+# depslib dependency file v1.0
+1431599775 source:c:\users\maciek\desktop\c++\space war\space\enemy_meneger.cpp
+	"Enemy_meneger.h"
+
+1431599569 c:\users\maciek\desktop\c++\space war\space\enemy_meneger.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<fstream>
+	<vector>
+	<ctime>
+	<iostream>
+	"SpriteLoader.h"
+	"Help_class.h"
+
+1425856358 c:\users\maciek\desktop\c++\space war\space\spriteloader.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+
+1426459571 c:\users\maciek\desktop\c++\space war\space\help_class.h
+	"Help_class.h"
+	"SpriteLoader.h"
+	<string>
+
+1431599569 source:c:\users\maciek\desktop\c++\space war\space\engine.cpp
+	"Engine.h"
+
+1431607394 c:\users\maciek\desktop\c++\space war\space\engine.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<fstream>
+	<sstream>
+	"Object.h"
+	"Map.h"
+	"Enemy_meneger.h"
+	"Help_class.h"
+
+1426457745 c:\users\maciek\desktop\c++\space war\space\object.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	"SpriteLoader.h"
+	"Help_class.h"
+
+1425855013 c:\users\maciek\desktop\c++\space war\space\map.h
+	"SpriteLoader.h"
+
+1431597662 source:c:\users\maciek\desktop\c++\space war\space\game.cpp
+	"Game.h"
+
+1431590187 c:\users\maciek\desktop\c++\space war\space\game.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	"Engine.h"
+
+1426457950 source:c:\users\maciek\desktop\c++\space war\space\help_class.cpp
+	"Help_class.h"
+
+1425685624 source:c:\users\maciek\desktop\c++\space war\space\main.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1425855182 source:c:\users\maciek\desktop\c++\space war\space\map.cpp
+	"Map.h"
+
+1431596362 source:c:\users\maciek\desktop\c++\space war\space\object.cpp
+	"Object.h"
+
+1425856358 source:c:\users\maciek\desktop\c++\space war\space\spriteloader.cpp
+	"SpriteLoader.h"
+
+1432329424 source:c:\users\maciek\desktop\c++\space war\space eksperyment\enemy_meneger.cpp
+	"Enemy_meneger.h"
+
+1432328101 c:\users\maciek\desktop\c++\space war\space eksperyment\enemy_meneger.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<fstream>
+	<vector>
+	<ctime>
+	<iostream>
+	"SpriteLoader.h"
+	"Help_class.h"
+	"Object.h"
+
+1425856358 c:\users\maciek\desktop\c++\space war\space eksperyment\spriteloader.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+
+1432330461 c:\users\maciek\desktop\c++\space war\space eksperyment\help_class.h
+	"Help_class.h"
+	"SpriteLoader.h"
+	<string>
+
+1432330461 source:c:\users\maciek\desktop\c++\space war\space eksperyment\engine.cpp
+	"Engine.h"
+
+1432327522 c:\users\maciek\desktop\c++\space war\space eksperyment\engine.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<fstream>
+	<sstream>
+	"Object.h"
+	"Map.h"
+	"Enemy_meneger.h"
+	"Help_class.h"
+	"Hud.h"
+	"Level.h"
+
+1432330461 c:\users\maciek\desktop\c++\space war\space eksperyment\object.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	"SpriteLoader.h"
+	"Help_class.h"
+
+1425855013 c:\users\maciek\desktop\c++\space war\space eksperyment\map.h
+	"SpriteLoader.h"
+
+1431849616 source:c:\users\maciek\desktop\c++\space war\space eksperyment\game.cpp
+	"Game.h"
+
+1431849117 c:\users\maciek\desktop\c++\space war\space eksperyment\game.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	"Engine.h"
+
+1426457950 source:c:\users\maciek\desktop\c++\space war\space eksperyment\help_class.cpp
+	"Help_class.h"
+
+1425685624 source:c:\users\maciek\desktop\c++\space war\space eksperyment\main.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1425855182 source:c:\users\maciek\desktop\c++\space war\space eksperyment\map.cpp
+	"Map.h"
+
+1425856358 source:c:\users\maciek\desktop\c++\space war\space eksperyment\spriteloader.cpp
+	"SpriteLoader.h"
+
+1432155064 source:c:\users\maciek\desktop\c++\space war\space eksperyment\hud.cpp
+	"Hud.h"
+
+1432153773 c:\users\maciek\desktop\c++\space war\space eksperyment\hud.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	<sstream>
+	"SpriteLoader.h"
+
+1432330461 source:c:\users\maciek\desktop\c++\space war\space eksperyment\object.cpp
+	"Object.h"
+
+1432125663 c:\users\maciek\desktop\c++\space war\space eksperyment\level.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	"SpriteLoader.h"
+	"Enemy_meneger.h"
+	"Help_class.h"
+
+1432329828 source:c:\users\maciek\desktop\c++\space war\space eksperyment\level.cpp
+	"Level.h"
+
+1433157163 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\enemy_meneger.cpp
+	"Enemy_meneger.h"
+
+1432817477 c:\users\maciek\desktop\c++\space war\space eksperyment a\enemy_meneger.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<fstream>
+	<vector>
+	<ctime>
+	<iostream>
+	"SpriteLoader.h"
+	"Help_class.h"
+	"Object.h"
+
+1425856358 c:\users\maciek\desktop\c++\space war\space eksperyment a\spriteloader.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+
+1432810321 c:\users\maciek\desktop\c++\space war\space eksperyment a\help_class.h
+	"Help_class.h"
+	"SpriteLoader.h"
+	<string>
+
+1433155199 c:\users\maciek\desktop\c++\space war\space eksperyment a\object.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	<SFML/Audio.hpp>
+	"SpriteLoader.h"
+	"Help_class.h"
+
+1433155462 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\engine.cpp
+	"Engine.h"
+
+1433156045 c:\users\maciek\desktop\c++\space war\space eksperyment a\engine.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<Windows.h>
+	<string>
+	<fstream>
+	<sstream>
+	"Object.h"
+	"Map.h"
+	"Enemy_meneger.h"
+	"Help_class.h"
+	"Hud.h"
+	"Level.h"
+	"SpceialEffcet.h"
+	"SpriteLoader.h"
+
+1425855013 c:\users\maciek\desktop\c++\space war\space eksperyment a\map.h
+	"SpriteLoader.h"
+
+1432153773 c:\users\maciek\desktop\c++\space war\space eksperyment a\hud.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	<sstream>
+	"SpriteLoader.h"
+
+1433095016 c:\users\maciek\desktop\c++\space war\space eksperyment a\level.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	<SFML/Audio.hpp>
+	"SpriteLoader.h"
+	"Enemy_meneger.h"
+	"Help_class.h"
+
+1433156577 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\game.cpp
+	"Game.h"
+
+1433156262 c:\users\maciek\desktop\c++\space war\space eksperyment a\game.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<string>
+	<fstream>
+	<sstream>
+	"Engine.h"
+
+1426457950 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\help_class.cpp
+	"Help_class.h"
+
+1432155064 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\hud.cpp
+	"Hud.h"
+
+1433153730 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\main.cpp
+	"Game.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1432415653 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\map.cpp
+	"Map.h"
+
+1433155379 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\object.cpp
+	"Object.h"
+
+1425856358 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\spriteloader.cpp
+	"SpriteLoader.h"
+
+1433104321 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\level.cpp
+	"Level.h"
+
+1432398407 c:\users\maciek\desktop\c++\space war\space eksperyment a\spceialeffcet.h
+	<SFML/Graphics.hpp>
+	<Windows.h>
+	<string>
+	<vector>
+	<fstream>
+	<iostream>
+	"SpriteLoader.h"
+	"Help_class.h"
+
+1432472654 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\spceialeffcet.cpp
+	"SpceialEffcet.h"
+
+1433152834 c:\users\maciek\desktop\c++\space war\space eksperyment a\resources.rc
+
+1433153919 source:c:\users\maciek\desktop\c++\space war\space eksperyment a\resources.rc
+

@@ -1,0 +1,7 @@
+#name statek1
+#Texture Data/GFX/statek1gracza.png
+#x 0
+#y 0
+#width 113
+#height 115
+#move 6
