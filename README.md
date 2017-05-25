@@ -10,7 +10,7 @@ Download SFML 2 (www.sfml-dev.org)
 
 /PL
 Witam, to moja pierwsza w pełni ukończona gra napisana w c++ i SFML 2.0.
-Gra zostałą ukończona w 2015 roku.
+Gra została ukończona w 2015 roku.
 Użyty utwór w grze : Meemite - Skull Bash
 http://meemite.newgrounds.com/
 
